@@ -1,4 +1,4 @@
-﻿Sakura🌸: A Wonderful WordPress Theme
+Sakura🌸: A Wonderful WordPress Theme
 ===
 
 ![Sakura](https://view.moezx.cc/images/2018/05/26/sakura.png)
@@ -15,16 +15,4 @@
 
 注意：建议 `git clone` 下载（[简易 Git 使用指南](https://github.com/mashirozx/Sakura/wiki/Git-%E4%B8%8B%E8%BD%BD%E3%80%81%E6%9B%B4%E6%96%B0%E6%8C%87%E5%8D%97)）；如果选择下载压缩包，**解压后记得把文件夹名改回 `Sakura`，也即保证主题路径为 `/wp-content/themes/Sakura/`**；主题设置在 `菜单-外观-Sakura 主题设置` 中；DIY 的时候建议采用[子主题](https://github.com/mashirozx/Sakura/tree/child) 并勾选 `Sakura 主题设置-CDN-本地调用主题 js、css 文件`；请留意主题说明里的其他注意事项。
 
-主题使用说明见：<https://2heng.xin/theme-sakura/>
-
-本仓库国内镜像：<https://gitee.com/mashirozx/Sakura>
-
-主题交流群：860262481
-
-希望你喜欢！
-
-### 打赏支持~
-[微信支付](https://view.moezx.cc/images/2018/05/28/WeChanQR.png) | [支付宝](https://view.moezx.cc/images/2018/05/28/AliPayQR.jpg) | [PayPal](https://paypal.me/mashirozx)
-
-### 需要服务器吗？
-<a href="https://www.vultr.com/?ref=7674346"><img src="https://www.vultr.com/media/banner_3.png" width="300" height="250"></a>
+修复了一些BUG，增加了前段找回密码。
